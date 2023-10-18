@@ -17,7 +17,8 @@ Now, since you are here, on Github, let me give a developery-ish inroduction of 
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=About+Me+💻&width=800&height=200)](https://github.com/Akshay090/svg-banners)
 
-### ✍️⌚ My Latest Blog Posts
+### [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=✍️%20⌚%20My%20Latest%20Blog%20Posts&width=500&height=70)](https://github.com/Akshay090/svg-banners)
+
 <!-- HASHNODE_BLOG:START -->
 - [Non-routable address spaces..what are they](https://hashnode.com/@sriram9217/non-routable-address-spaceswhat-are-they)
 - [MultiProcessor systems: a high-level overview](https://hashnode.com/@sriram9217/multiprocessor-systems-a-high-level-overview)
@@ -26,7 +27,8 @@ Now, since you are here, on Github, let me give a developery-ish inroduction of 
 <!-- HASHNODE_BLOG:END -->
 
 
-### 👨‍💻 I speak to my machine using
+### [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=👨‍💻%20I%20speak%20to%20my%20machine%20using&width=500&height=70)](https://github.com/Akshay090/svg-banners)
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -35,12 +37,16 @@ Now, since you are here, on Github, let me give a developery-ish inroduction of 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-### 🤖 I build AI that that takes over the world using
+
+### [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=🤖%20I%20build%20AI%20that%20takes%20over%20the%20world%20using&width=600&height=70)](https://github.com/Akshay090/svg-banners) 
+
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-### 📈📉📊 I display my forecasts and findings using
+
+### [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=📈📉📊%20I%20display%20my%20forecasts%20and%20findings%20using&width=650&height=70)](https://github.com/Akshay090/svg-banners) 
+
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
