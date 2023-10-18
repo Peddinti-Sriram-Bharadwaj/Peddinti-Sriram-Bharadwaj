@@ -1,0 +1,19 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs every day at 00:00 UTC
+jobs:
+  update_blogs:
+    name: Update Blogs
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fetching Repository Contents
+        uses: actions/checkout@main
+      - name: Hashnode Updater
+        uses: varunsridharan/action-hashnode-blog@main
+        with:
+          USERNAME: 'sriram9217' # Hashnode Username
+          BLOG_URL: 'https://hashnode.com/@sriram9217' # Blog URL
+          COUNT: 10 # MAX Visible
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
