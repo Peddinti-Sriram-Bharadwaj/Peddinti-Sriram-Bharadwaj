@@ -6,6 +6,9 @@ I aim to optimize nerual networks so that they won't end up causing power shorta
 Now, since you are here, on Github, let me give a developery-ish intorduction of myself. 
 ![Visitor Count](https://profile-counter.glitch.me/)
 
+## Guestbook
+<!-- guestbook-section -->
+
 
 # My Developer life -
 
