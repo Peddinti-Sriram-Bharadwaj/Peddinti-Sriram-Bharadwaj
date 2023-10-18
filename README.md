@@ -10,10 +10,6 @@ I aim to optimize nerual networks so that they won't end up causing power shorta
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SriramBharadwaj1&show_icons=true&theme=radical)
 
-Lets begin our journey with a small quote :- 
-
-<img src='https://quotier.vercel.app/quote' alt="quotes"/>
-
 Now, since you are here, on Github, let me give a developery-ish inroduction of myself. 
 
 
