@@ -7,13 +7,8 @@ Now, since you are here, on Github, let me give a developery-ish intorduction of
 ![Visitor Count](https://profile-counter.glitch.me/)
 
 ## Guestbook
-
 <!--guestbook-section-start-->
 <!--guestbook-section-end-->
-
-
-
-
 # My Developer life -
 
 ## My Latest Blog Posts
