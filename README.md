@@ -9,6 +9,7 @@ I aim to optimize nerual networks so that they won't end up causing power shorta
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SriramBharadwaj1&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SriramBharadwaj1&theme=radical&hide_border=true&mode=weekly&hide_current_streak=true)](https://git.io/streak-stats)
 
 Now, since you are here, on Github, let me give a developery-ish inroduction of myself. 
 
