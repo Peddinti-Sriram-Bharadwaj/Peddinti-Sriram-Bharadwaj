@@ -1,5 +1,6 @@
 # Hola!
-My name is Optimus Prime.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2327B026&size=20&center=true&lines=Hola+Nerds!;My+name+is+Optimus++Prime)](https://git.io/typing-svg)
+
 Just kidding, my name is Sriram Bharadwaj, I am a Machine learning enthusiast from India.
 I aim to optimize nerual networks so that they won't end up causing power shortages down the line!! Yup, I'm pretty ambitious about my contributions to the futuristic world of Machine Learning.
 
