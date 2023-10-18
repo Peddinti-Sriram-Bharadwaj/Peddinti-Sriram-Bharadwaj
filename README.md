@@ -4,6 +4,11 @@ Just kidding, my name is Sriram Bharadwaj, I am a Machine learning enthusiast fr
 I aim to optimize nerual networks so that they won't end up causing power shortages down the line!! Yup, I'm pretty ambitious about my contributions to the futuristic world of Machine Learning.
 
 Now, since you are here, on Github, let me give a developery-ish intorduction of myself. 
+![Visitor Count](https://profile-counter.glitch.me/)
+
+## Guestbook
+<!-- guestbook-section -->
+
 
 # My Developer life -
 
