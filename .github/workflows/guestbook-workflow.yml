@@ -1,8 +1,8 @@
 name: Guestbook Workflow
-on:
+on: 
   schedule:
-    - cron: '* * * * *' # Runs every day at 00:00 UTC
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+    - cron: '0 0 31 12 *' # Runs at 00:00 on day-of-month 31 in December.
+  workflow_dispatch: # Run workflow manually
   issues:
     types: [opened, closed, reopened, deleted, edited]
 permissions:
@@ -17,5 +17,5 @@ jobs:
       - name: Update guestbook
         uses: nfhipona/guestbook-workflow@main
         with:
-          target_branch: 'SriramBharadwaj1-new-workflows-testing'
+          target_branch: 'main'
           section_identifier: 'guestbook-section'
