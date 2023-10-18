@@ -14,7 +14,7 @@ Now, since you are here, on Github, let me give a developery-ish inroduction of 
 
 
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=About+Me+💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=About+Me+💻&width=800&height=200)](https://github.com/Akshay090/svg-banners)
 
 ### ✍️⌚ My Latest Blog Posts
 <!-- HASHNODE_BLOG:START -->
