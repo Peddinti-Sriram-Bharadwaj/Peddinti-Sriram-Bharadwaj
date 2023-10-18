@@ -3,7 +3,10 @@
 
 Just kidding, my name is Sriram Bharadwaj, I am a Machine learning enthusiast from India
 I aim to optimize nerual networks so that they won't end up causing power shortages down the line!! Yup, I'm pretty ambitious about my contributions to the futuristic world of Machine Learning.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SriramBharadwaj1&label=Profile%20views&color=0e75b6&style=flat" alt="SriramBharadwaj1" /> </p>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/SriramBharadwaj1/count.svg" />
+</p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SriramBharadwaj1&show_icons=true&theme=radical)
 
