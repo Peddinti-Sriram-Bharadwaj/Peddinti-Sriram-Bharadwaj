@@ -9,7 +9,6 @@ I aim to optimize nerual networks so that they won't end up causing power shorta
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SriramBharadwaj1&show_icons=true&theme=radical)
-[![GitHub Game of Life](https://github4life.herokuapp.com/SriramBharadwaj1.gif?z=6)](https://github4life.herokuapp.com/SriramBharadwaj1)
 
 Now, since you are here, on Github, let me give a developery-ish inroduction of myself. 
 
