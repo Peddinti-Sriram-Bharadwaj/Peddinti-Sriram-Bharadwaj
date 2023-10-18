@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @SriramBharadwaj1
-- 👀 I’m interested in Java, web development and algorithms
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on java codebases
-  
+# Hola!
+My name is Optimus Prime.
+Just kidding, my name is Sriram Bharadwaj, I am a Machine learning enthusiast from India.
+I aim to optimize nerual networks so that they won't end up causing power shortages down the line!! Yup, I'm pretty ambitious about my contributions to the futuristic world of Machine Learning.
+
+Now, since you are here, on Github, let me give a developery-ish intorduction of myself. 
 
 # My Developer life -
 
