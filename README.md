@@ -7,9 +7,7 @@ I aim to optimize nerual networks so that they won't end up causing power shorta
 Now, since you are here, on Github, let me give a developery-ish inroduction of myself. 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SriramBharadwaj1&label=Profile%20views&color=0e75b6&style=flat" alt="SriramBharadwaj1" /> </p>
 
-## Guestbook
-<!--guestbook-section-start-->
-<!--guestbook-section-end-->
+
 # My Developer life -
 
 ## My Latest Blog Posts
