@@ -23,7 +23,6 @@ Now, since you are here, on Github, let me give a developery-ish inroduction of 
 - [Non-routable address spaces..what are they](https://hashnode.com/@sriram9217/non-routable-address-spaceswhat-are-they)
 - [MultiProcessor systems: a high-level overview](https://hashnode.com/@sriram9217/multiprocessor-systems-a-high-level-overview)
 - [Multiprogramming- all you need to know](https://hashnode.com/@sriram9217/multiprogramming-all-you-need-to-know)
-- [Activation functions explained with Biology](https://hashnode.com/@sriram9217/activation-functions-explained-with-biology)
 <!-- HASHNODE_BLOG:END -->
 
 
