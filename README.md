@@ -1,5 +1,5 @@
 # Peddinti Sri Ram Bharadwaj
-**M.Tech in Computer Science & Engineering | IIIT Bangalore** **Incoming Thesis Student | Stochastic Systems Lab, IISc Bangalore**
+**M.Tech in Computer Science & Engineering | IIIT Bangalore**
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sriram-bharadwaj-p/">
