@@ -59,6 +59,3 @@ My research philosophy is shaped by a commitment to deep work and substrate-inde
 ### 📜 Personal Protocol
 *The "Will of Fire": The belief that systems must be built with the resilience to protect and elevate future generations.*
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Peddinti-Sriram-Bharadwaj&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-</p>
