@@ -16,7 +16,7 @@
 ---
 
 ### 🔬 Research Focus
-I am a Master's student bridging the gap between **Mathematical Theory** and **High-Performance Systems**. My work focuses on the intersection of Reinforcement Learning (RL) theory and AI Safety.
+I am a Research Assistant at CSA IISC, Stochastic Systems Lab bridging the gap between **Mathematical Theory** and **High-Performance Systems**. My work focuses on the intersection of Reinforcement Learning (RL) theory and AI Safety.
 
 - **Theoretical ML:** Measure-theoretic foundations of Reinforcement Learning, Stochastic Approximation, and Machine Unlearning.
 - **AI Safety & Alignment:** Developing formal guarantees for policy unlearning and investigating adversarial reconstruction in state-action spaces.
